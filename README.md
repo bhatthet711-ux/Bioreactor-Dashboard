@@ -1,4 +1,4 @@
-# 🧫 BioReactor Analytics Suite
+# BioReactor Analytics Suite
 
 An interactive, multi-axis dashboard for visualizing bioprocess engineering data over a 48-hour fermentation cycle. Designed for process monitoring, phase detection, and specific growth rate (μ) analysis.
 
